@@ -1,2 +1,3 @@
 I'm studing git.
 This is a Distributed Version Control System.
+I'm very worried because of time went by quickly.
