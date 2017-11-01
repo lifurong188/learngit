@@ -1,2 +1,2 @@
 I'm studing git.
-这是一个分布式的版本控制系统
+Zhe shi yi ge fen bu shi de ban ben guan li xi tong.
