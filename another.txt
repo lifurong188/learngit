@@ -1,2 +1,2 @@
 This is another file
-这是另外一个文件
+This file is never use.
